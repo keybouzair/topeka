@@ -1,4 +1,3 @@
-Topeka
 ------
 
 There are 2 ways to get your dependencies up-and-running:
